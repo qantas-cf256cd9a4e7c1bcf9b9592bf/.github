@@ -1,12 +1,14 @@
-## Hi there 👋
+![Qantas](https://logodownload.org/wp-content/uploads/2020/03/qantas-airways-logo-5.png)
+# Roblox Qantas Airlines
+### A RoAviation Community on Roblox
 
-<!--
+This org is dedicated to publicly show assets we use in our games here at Qantas Airlines. We have some recources that have been specifically constructed by the Developers themselves! And also popular Open-Sourced Modules and Libaries like **Knit, Selene, Rojo, Wally, Foreman, etc...** that was publicly forked from the Official Repository of the Librarie's GitHub Repository created by the File's Author.
 
-**Here are some ideas to get you started:**
+Some files will be disclosed to the public as some things will be stored from the game itself to prevent file loss. Only the ones trusted by Manager64 or the Chairman has access to the GitHub(Preventing Asset Vandalization & Stealing)
+https://logodownload.org/wp-content/uploads/2020/03/qantas-airways-logo-5.png
+```
+Development Staff:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Manager64 ~ Scripting, Building, User Interface
+Erfan_coolkid ~ Building
+```
